@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Tunnel.dir/window.cpp.o -o Tunnel  -lGL -lglut -lglfw3 external/glad/libglad.a -ldl -lX11 -lpthread 

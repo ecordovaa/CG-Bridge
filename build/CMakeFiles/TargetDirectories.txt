@@ -1,0 +1,14 @@
+/home/jztrk/Desktop/UTEC/Ciclo_VIII/Grafica/Proyecto3/build/CMakeFiles/rebuild_cache.dir
+/home/jztrk/Desktop/UTEC/Ciclo_VIII/Grafica/Proyecto3/build/CMakeFiles/edit_cache.dir
+/home/jztrk/Desktop/UTEC/Ciclo_VIII/Grafica/Proyecto3/build/CMakeFiles/Tunnel.dir
+/home/jztrk/Desktop/UTEC/Ciclo_VIII/Grafica/Proyecto3/build/external/CMakeFiles/rebuild_cache.dir
+/home/jztrk/Desktop/UTEC/Ciclo_VIII/Grafica/Proyecto3/build/external/CMakeFiles/edit_cache.dir
+/home/jztrk/Desktop/UTEC/Ciclo_VIII/Grafica/Proyecto3/build/external/glad/CMakeFiles/rebuild_cache.dir
+/home/jztrk/Desktop/UTEC/Ciclo_VIII/Grafica/Proyecto3/build/external/glad/CMakeFiles/edit_cache.dir
+/home/jztrk/Desktop/UTEC/Ciclo_VIII/Grafica/Proyecto3/build/external/glad/CMakeFiles/glad.dir
+/home/jztrk/Desktop/UTEC/Ciclo_VIII/Grafica/Proyecto3/build/external/stb_image/CMakeFiles/edit_cache.dir
+/home/jztrk/Desktop/UTEC/Ciclo_VIII/Grafica/Proyecto3/build/external/stb_image/CMakeFiles/rebuild_cache.dir
+/home/jztrk/Desktop/UTEC/Ciclo_VIII/Grafica/Proyecto3/build/external/stb_image/CMakeFiles/stb_image.dir
+/home/jztrk/Desktop/UTEC/Ciclo_VIII/Grafica/Proyecto3/build/external/imgui/CMakeFiles/rebuild_cache.dir
+/home/jztrk/Desktop/UTEC/Ciclo_VIII/Grafica/Proyecto3/build/external/imgui/CMakeFiles/edit_cache.dir
+/home/jztrk/Desktop/UTEC/Ciclo_VIII/Grafica/Proyecto3/build/external/imgui/CMakeFiles/imgui.dir
